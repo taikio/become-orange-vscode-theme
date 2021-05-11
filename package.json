@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "https://raw.githubusercontent.com/taikio/become-orange-vscode-theme/master/assets/logo-become-orange.png",
+    "icon": "assets/logo-become-orange.png",
     "contributes": {
         "themes": [
             {
