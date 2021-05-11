@@ -1,0 +1,23 @@
+{
+    "name": "become-orange-theme",
+    "displayName": "Become Orange Color Theme",
+    "description": "A dark theme with orange highlight",
+    "version": "0.0.1",
+    "publisher": "WelkerArantes",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "assets/logo-become-orange.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Become Orange Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Become Orange Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
