@@ -19,5 +19,14 @@
                 "path": "./themes/Become Orange Color Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "galleryBanner": {
+        "color": "#485FA2",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/taikio/become-orange-vscode-theme.git"
+    },
+    "homepage": "https://github.com/taikio/become-orange-vscode-theme/blob/master/README.md"
 }
